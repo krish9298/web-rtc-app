@@ -1,5 +1,3 @@
-# web-rtc-app
-
 Built a React Video Chat Application using WebRTC.
 
 Setup:
